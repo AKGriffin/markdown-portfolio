@@ -1,4 +1,4 @@
 ## Favorite Things
-- Music
+- Documentaries
 - Puzzle games
 - Fermentation
