@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I really enjoy experimenting with **vanilla JavaScipt**
+I hope to learn more **back-end** skills
+I am looking to become a __*fullstack* developer__
